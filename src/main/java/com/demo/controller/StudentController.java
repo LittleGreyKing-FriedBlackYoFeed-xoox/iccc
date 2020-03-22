@@ -41,4 +41,11 @@ public class StudentController {
         model.addAttribute("list",students);
         return "demo/demo_index";
     }
+    /**
+     * add
+     */
+    @RequestMapping("demo_add")
+    public String demo_add(Model model){
+        return "demo/demo_add";
+    }
 }

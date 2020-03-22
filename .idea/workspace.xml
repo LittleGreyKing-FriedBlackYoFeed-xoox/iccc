@@ -6,7 +6,147 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d207cc8-33e9-4c5f-8c1a-567f6b18b037" name="Default Changelist" comment="" />
+    <list default="true" id="7d207cc8-33e9-4c5f-8c1a-567f6b18b037" name="Default Changelist" comment="v-1.0,框架封装完成，可以正常访问数据库和页面重定向">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/jquery/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layer-v3.1.1/layer/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layer-v3.1.1/layer/mobile/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layer-v3.1.1/layer/mobile/need/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layer-v3.1.1/layer/theme/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layer-v3.1.1/layer/theme/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layer-v3.1.1/layer/theme/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layer-v3.1.1/layer/theme/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layer-v3.1.1/layer/theme/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layer-v3.1.1/layer/theme/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layer-v3.1.1/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layer-v3.1.1/文档/jquery下载.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layer-v3.1.1/文档/layer官网.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layer-v3.1.1/文档/layer文档.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layer-v3.1.1/文档/layui社区.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layer-v3.1.1/文档/获得layim.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layer-v3.1.1/更新日志.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/font/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/rate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/transfer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/lay/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/layui.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/layui/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/文档与示例/GitHub.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/文档与示例/Gitee 码云.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/文档与示例/在线示例.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/文档与示例/快速上手.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/js/layui-v2.5.6/更新日志.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/demo/demo.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/view/demo/demo_add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/demo/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/demo/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/demo/controller/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/demo/controller/StudentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ssm-demo-1.0-SNAPSHOT/WEB-INF/classes/com/demo/controller/StudentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ssm-demo-1.0-SNAPSHOT/WEB-INF/classes/com/demo/controller/StudentController.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,15 +186,23 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Tag Library Descriptor" />
-        <option value="HTML File" />
         <option value="Interface" />
         <option value="Class" />
         <option value="spring-beans.schema" />
+        <option value="HTML File" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Program Files\JetBrains\javaworkspace\iccc\.idea" />
+      </set>
+    </option>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -83,38 +231,49 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1ZThPkD0AlcYxNeXj7KPLj5qA4Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resouces/js" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Program Files\JetBrains\javaworkspace\iccc\src\main\webapp\WEB-INF" />
+      <recent name="C:\Program Files\JetBrains\javaworkspace\iccc\src\main\resouces\js\jquery" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Program Files\JetBrains\javaworkspace\iccc\src\main\resouces\js" />
       <recent name="C:\Program Files\JetBrains\javaworkspace\iccc\src\main\webapp\WEB-INF\view\demo" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="iccc" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.4" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="iccc:war">
           <settings>
-            <option name="CONTEXT_PATH" value="iccc" />
+            <option name="CONTEXT_PATH" value="" />
           </settings>
         </artifact>
       </deployment>
@@ -207,11 +366,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="com.intellij.database.console.session.MessageBusSession@30962900" type="9fbbdea:ServiceModel$ServiceNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -229,18 +383,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584868968897</updated>
-      <workItem from="1584868973632" duration="2438000" />
+      <workItem from="1584868973632" duration="11844000" />
     </task>
+    <task id="LOCAL-00001" summary="v-1.0,框架封装完成，可以正常访问数据库和页面重定向">
+      <created>1584871546421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584871546421</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="v-1.0,框架封装完成，可以正常访问数据库和页面重定向" />
+    <option name="LAST_COMMIT_MESSAGE" value="v-1.0,框架封装完成，可以正常访问数据库和页面重定向" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="274" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584871164905">
+    <state x="274" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584873000535">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="274" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584871164905" />
+    <state x="274" y="14" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584873000535" />
     <state x="350" y="91" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1584870142469">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -257,6 +424,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="437" y="233" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1584870144136" />
+    <state x="154" y="0" key="CommitChangelistDialog2" timestamp="1584873761880">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="154" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584873761880" />
     <state x="288" y="124" key="DUMP_DIALOG_DIMENSION_KEY" timestamp="1584869389862">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -265,74 +436,78 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="45" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584871441413" />
-    <state width="1007" height="190" key="GridCell.Tab.0.bottom" timestamp="1584871319522">
+    <state width="1007" height="239" key="GridCell.Tab.0.bottom" timestamp="1584881553102">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1007" height="190" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584871319522" />
-    <state width="1007" height="190" key="GridCell.Tab.0.center" timestamp="1584871319522">
+    <state width="1007" height="239" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584881553102" />
+    <state width="1007" height="239" key="GridCell.Tab.0.center" timestamp="1584881553102">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1007" height="190" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584871319522" />
-    <state width="1007" height="190" key="GridCell.Tab.0.left" timestamp="1584871319522">
+    <state width="1007" height="239" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584881553102" />
+    <state width="1007" height="239" key="GridCell.Tab.0.left" timestamp="1584881553101">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1007" height="190" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584871319522" />
-    <state width="1007" height="190" key="GridCell.Tab.0.right" timestamp="1584871319522">
+    <state width="1007" height="239" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584881553101" />
+    <state width="1007" height="239" key="GridCell.Tab.0.right" timestamp="1584881553102">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1007" height="190" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584871319522" />
-    <state width="1007" height="188" key="GridCell.Tab.1.bottom" timestamp="1584871261377">
+    <state width="1007" height="239" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584881553102" />
+    <state width="1007" height="239" key="GridCell.Tab.1.bottom" timestamp="1584881553102">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1007" height="188" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584871261377" />
-    <state width="1007" height="188" key="GridCell.Tab.1.center" timestamp="1584871261377">
+    <state width="1007" height="239" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584881553102" />
+    <state width="1007" height="239" key="GridCell.Tab.1.center" timestamp="1584881553102">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1007" height="188" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584871261377" />
-    <state width="1007" height="188" key="GridCell.Tab.1.left" timestamp="1584871261377">
+    <state width="1007" height="239" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584881553102" />
+    <state width="1007" height="239" key="GridCell.Tab.1.left" timestamp="1584881553102">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1007" height="188" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584871261377" />
-    <state width="1007" height="188" key="GridCell.Tab.1.right" timestamp="1584871261377">
+    <state width="1007" height="239" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584881553102" />
+    <state width="1007" height="239" key="GridCell.Tab.1.right" timestamp="1584881553102">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1007" height="188" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584871261377" />
-    <state width="1007" height="188" key="GridCell.Tab.2.bottom" timestamp="1584871261378">
+    <state width="1007" height="239" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584881553102" />
+    <state width="1007" height="239" key="GridCell.Tab.2.bottom" timestamp="1584881553103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1007" height="188" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584871261378" />
-    <state width="1007" height="188" key="GridCell.Tab.2.center" timestamp="1584871261378">
+    <state width="1007" height="239" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584881553103" />
+    <state width="1007" height="239" key="GridCell.Tab.2.center" timestamp="1584881553103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1007" height="188" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1584871261378" />
-    <state width="1007" height="188" key="GridCell.Tab.2.left" timestamp="1584871261377">
+    <state width="1007" height="239" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1584881553103" />
+    <state width="1007" height="239" key="GridCell.Tab.2.left" timestamp="1584881553102">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1007" height="188" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1584871261377" />
-    <state width="1007" height="188" key="GridCell.Tab.2.right" timestamp="1584871261378">
+    <state width="1007" height="239" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1584881553102" />
+    <state width="1007" height="239" key="GridCell.Tab.2.right" timestamp="1584881553103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1007" height="188" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1584871261378" />
-    <state width="1007" height="188" key="GridCell.Tab.3.bottom" timestamp="1584871261378">
+    <state width="1007" height="239" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1584881553103" />
+    <state width="1007" height="239" key="GridCell.Tab.3.bottom" timestamp="1584881553104">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1007" height="188" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584871261378" />
-    <state width="1007" height="188" key="GridCell.Tab.3.center" timestamp="1584871261378">
+    <state width="1007" height="239" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584881553104" />
+    <state width="1007" height="239" key="GridCell.Tab.3.center" timestamp="1584881553103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1007" height="188" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1584871261378" />
-    <state width="1007" height="188" key="GridCell.Tab.3.left" timestamp="1584871261378">
+    <state width="1007" height="239" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1584881553103" />
+    <state width="1007" height="239" key="GridCell.Tab.3.left" timestamp="1584881553103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1007" height="188" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1584871261378" />
-    <state width="1007" height="188" key="GridCell.Tab.3.right" timestamp="1584871261378">
+    <state width="1007" height="239" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1584881553103" />
+    <state width="1007" height="239" key="GridCell.Tab.3.right" timestamp="1584881553103">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1007" height="188" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1584871261378" />
+    <state width="1007" height="239" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1584881553103" />
     <state x="35" y="0" key="SettingsEditor" timestamp="1584871434198">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="35" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584871434198" />
+    <state x="175" y="32" key="Vcs.Push.Dialog.v2" timestamp="1584871585972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="32" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584871585972" />
     <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1584870885071">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
